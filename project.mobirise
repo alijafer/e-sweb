@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "weball",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "appamp",
       "title": "AppAMP",
@@ -58,8 +58,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "canonical-url": false
+    "gdpr": false
   },
   "pages": {
     "index.html": {
