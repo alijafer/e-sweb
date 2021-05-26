@@ -47,7 +47,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 233,
+    "uniqCompNum": 232,
     "versionPublish": "5.3.5",
     "chatbutton": {
       "phone": "+966544816209",
@@ -66,7 +66,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "4uklmdfmvt",
+    "mbrsiteDomain": "ml52fv4mi0",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -76,7 +76,7 @@
     "cssOptimize": false,
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
-    "site_lang": ""
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
