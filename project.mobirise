@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "weballen",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "appamp",
       "title": "AppAMP",
@@ -66,7 +66,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "naacdjqma1",
+    "mbrsiteDomain": "gtugpfdytd",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -77,11 +77,11 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "site_lang": "en",
-    "canonical-url": false,
     "global_before_html": "",
     "global_header_custom": "",
     "global_after_body": "",
-    "global_footer_custom": "    <script>\n        function googleTranslateElementInit() {\n                new google.translate.TranslateElement({\n                pageLanguage: 'en'\n            }, 'google_translate_element');\n        }\n    </script>\n    <script src=\"http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>;"
+    "global_footer_custom": "    <script>\n        function googleTranslateElementInit() {\n                new google.translate.TranslateElement({\n                pageLanguage: 'en'\n            }, 'google_translate_element');\n        }\n    </script>\n    <script src=\"http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>;",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
@@ -1245,6 +1245,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
@@ -1780,6 +1784,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
@@ -2040,6 +2048,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
@@ -2418,6 +2430,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
@@ -2776,6 +2792,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
@@ -3338,6 +3358,10 @@
                 "-webkit-justify-content": "center",
                 "justify-content": "center"
               }
+            },
+            ".goog-logo-link img": {
+              "height": "unset !important",
+              "width": "unset !important"
             }
           },
           "_name": "footer1",
