@@ -1,0 +1,14 @@
+{
+  "name": "eee-hit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mustache en.json public/index.html > en/index.html | mustache ar.json public/index.html > ar/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

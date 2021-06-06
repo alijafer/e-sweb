@@ -1,0 +1,31 @@
+{
+    "lng":"en",
+    "Align": "Left",
+    "index":{
+        "home": "Home",
+        "services": "Services",
+        "generalservices": "General Services",
+        "ondapp": "On Demand App",
+        "why": "Why Us",
+        "temt": "Team Technology",
+        "cont": "Contact us",
+        "E-service": "E-service",
+        "rmapp": "Ready Made Application",
+        "cms": "Content Management System",
+        "E-serviceTeam": "E-service Team",
+        "ScrolltoTop": "Scroll to Top"
+    },
+    "chat":{
+        "msg": "👋 Chat with us on WhatsApp!",
+        "msg2":"Hi!👋",
+        "msg3": "Type a message here. It will go straight to our phone!",
+        "msg4": "Type here"
+    },
+    "forms":{
+        "send": "SEND",
+        "SendyqFree": "Send your query for Free",
+        "Thankyou": "Thank you, we will reach you soon :)",
+        "Failed": "Failed!"
+    }
+}
+    
