@@ -13,7 +13,9 @@
         "rmapp": "تطبيقات جاهزة",
         "cms": "نظام إدارة المحتوى",
         "E-serviceTeam": "فريق إي-سيرفيس",
-        "ScrolltoTop": "انتقل إلى أعلى"
+        "ScrolltoTop": "انتقل إلى أعلى",
+        "StartNow": "إبدأ الان",
+        "OurProcess": "عمليتنا"
     },
     "chat":{
         "msg": "👋 تحدث معنا على الوتساب",
@@ -25,7 +27,40 @@
         "send": "إرسال",
         "SendyqFree": "إرسل استفسارك مجانا",
         "Thankyou": "شكراً لك، سنتواصل معك عما قريب",
-        "Failed": "باءت بالفشل!"
+        "Failed": "باءت بالفشل!",
+        "name": "الاسم",
+        "email": "البريد الالكتروني",
+        "Message": "الرسالة",
+        "Phone": "رقم الجوال"
+    },
+    "Services": {
+        "txt": "كل خدماتك في مكان واحد",
+        "txt1": "جميع الخدمات المطلوبة في مكان واحد"
+    },
+    "header":{
+        "ftitel": "E-services website",
+        "fsubtitel": "جميع خدمات تكنولوجيا المعلومات الخاصة بك في مكان واحد",
+        "ssubtitel": "لديك مشروع ، نحن نبنيه لك ",
+        "tsubtitel": "لديك خدمة جديدة ، نحن نساعدك على القيام بها "
+    },
+    "why": {
+        "title1": "أفضل سعر",
+        "title2": "عالي الجودة",
+        "titel3": "وقت قصير",
+        "txt1": "سعرنا أقل من متوسط السعر.",
+        "txt2": "فرق المطورين لدينا مؤهلة بشكل جيد لبناء أنواع مختلفة من المشاريع.",
+        "txt3": "Our timetable highly distributed to employee's."
+    },
+    "oprocess": {
+        "titleTop": "It is so easy to build your web with us.",
+        "title1": "Free Query",
+        "title2": "Processing",
+        "title3": "Feedback",
+        "title4": "Completed ",
+        "txt1": "Once we receive your query, from our site /WhatsApp 0544816209",
+        "txt2": "We will analyze it and give you the best work and design.",
+        "txt3": "We will send you all needed information with proposal budget ",
+        "txt4": "We finish your project after the deal ."
     }
     
 }

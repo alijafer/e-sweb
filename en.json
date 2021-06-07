@@ -5,7 +5,7 @@
         "home": "Home",
         "services": "Services",
         "generalservices": "General Services",
-        "ondapp": "On Demand App",
+        "ondapp": "On Demand Application",
         "why": "Why Us",
         "temt": "Team Technology",
         "cont": "Contact us",
@@ -13,7 +13,9 @@
         "rmapp": "Ready Made Application",
         "cms": "Content Management System",
         "E-serviceTeam": "E-service Team",
-        "ScrolltoTop": "Scroll to Top"
+        "ScrolltoTop": "Scroll to Top",
+        "StartNow": "Start Now",
+        "OurProcess": "Our Process"
     },
     "chat":{
         "msg": "👋 Chat with us on WhatsApp!",
@@ -25,7 +27,40 @@
         "send": "SEND",
         "SendyqFree": "Send your query for Free",
         "Thankyou": "Thank you, we will reach you soon :)",
-        "Failed": "Failed!"
+        "Failed": "Failed!",
+        "name": "Name",
+        "email": "Email",
+        "Message": "Message",
+        "Phone": "Phone"
+    },
+    "Services": {
+        "txt": "All your Services in one place",
+        "txt1": "All Requested Services In One Place"
+    },
+    "header":{
+        "ftitel": "E-services website",
+        "fsubtitel": "All your IT services in one place",
+        "ssubtitel": "Have a project, we build it for you",
+        "tsubtitel": "Have a new service, we help you to do it"
+    },
+    "why": {
+        "title1": "Better Price",
+        "title2": "High Quality",
+        "titel3": "Short Time",
+        "txt1": "Our price below the average price in the development area.",
+        "txt2": "Our developer teams well qualified building variant kind of projects",
+        "txt3": "Our timetable highly distributed to employee's."
+    },
+    "oprocess": {
+        "titleTop": "It is so easy to build your web with us.",
+        "title1": "Free Query",
+        "title2": "Processing",
+        "title3": "Feedback",
+        "title4": "Completed ",
+        "txt1": "Once we receive your query, from our site /WhatsApp 0544816209",
+        "txt2": "We will analyze it and give you the best work and design.",
+        "txt3": "We will send you all needed information with proposal budget ",
+        "txt4": "We finish your project after the deal ."
     }
 }
     
