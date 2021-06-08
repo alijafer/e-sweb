@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "weballen",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "appamp",
       "title": "AppAMP",
@@ -82,7 +82,8 @@
     "global_after_body": "",
     "global_footer_custom": "",
     "publishType": "local",
-    "publishPath": "file:///D:/webenar"
+    "publishPath": "file:///D:/webenar",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
