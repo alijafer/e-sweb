@@ -1,6 +1,7 @@
 {
     "lng":"ar",
     "Align": "Right",
+    "Copyright": "© Copyright 2021 E-service - All Rights Reserved",
     "index":{
         "home": "الرئسية",
         "services": "خدمات",
@@ -15,7 +16,9 @@
         "E-serviceTeam": "فريق إي-سيرفيس",
         "ScrolltoTop": "انتقل إلى أعلى",
         "StartNow": "إبدأ الان",
-        "OurProcess": "عمليتنا"
+        "OurProcess": "عمليتنا",
+        "OurTeam": "فريقنا",
+        "Portfolio" : "Portfolio"
     },
     "chat":{
         "msg": "👋 تحدث معنا على الوتساب",
@@ -61,6 +64,38 @@
         "txt2": "We will analyze it and give you the best work and design.",
         "txt3": "We will send you all needed information with proposal budget ",
         "txt4": "We finish your project after the deal ."
+    },
+    "features": {
+        "Numberofclients": "Number of clients",
+        "Numberofservices": "Number of services",
+        "CompletedServices": "Completed Services",
+        "Responsetime": "Response time",
+        "Numberofclientsn": "59+",
+        "Numberofservicesn": "99+",
+        "CompletedServicesn": "49+",
+        "Responsetimen": "9 m"
+    },
+    "team": {
+        "0":"عقيل العباد",
+        "1": "حسن اليوسف",
+        "2":"عبدالله الثاني",
+        "3":"علي العامر"
+    },
+    "status": {
+        "0":"مدير",
+        "1":"Lead of IT",
+        "2":"SE, WEB-Mobile Developer",
+        "3":"Data science, WEB Developer"
+    },
+    "portfolio": {
+        "subTitle": "Explore some of our projects",
+        "title1": "Family tree",
+        "txt1":"Responsive Website that show all Family Members",
+        "title2": "Rafed educational site",
+        "txt2":"Web site that helps learners obtain educational courses",
+        "title3": "My Teacher educational site",
+        "txt3":"An educational site that helps learners obtain educational courses",
+        "web": "Web Application"
     }
     
 }

@@ -47,7 +47,7 @@ body{font-family: Work Sans;}blockquote{border-color: #feba33;}div[submit-succes
 				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
 						<a class="nav-link mbr-regular link text-black text-primary display-4" href="index.html">{{index.home}}</a>
 					</li>
-					<li class="nav-item dropdown open">
+					<li class="nav-item dropdown">
 						<a class="nav-link link mbr-regular text-black dropdown-toggle display-4" data-toggle="dropdown-submenu" aria-expanded="true">{{index.services}}</a>
 						<div class="dropdown-menu">
 							<a class="text-black mbr-regular dropdown-item text-primary display-4" href="page3.html">{{index.generalservices}}</a>
@@ -99,7 +99,7 @@ body{font-family: Work Sans;}blockquote{border-color: #feba33;}div[submit-succes
 				<ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
 						<a class="nav-link mbr-regular link text-black text-primary display-4" href="index.html">{{index.home}}</a>
 					</li>
-					<li class="nav-item dropdown open">
+					<li class="nav-item dropdown">
 						<a class="nav-link link mbr-regular text-black dropdown-toggle display-4" data-toggle="dropdown-submenu" aria-expanded="true">{{index.services}}</a>
 						<div class="dropdown-menu">
 							<a class="text-black mbr-regular dropdown-item text-primary display-4" href="page3.html">{{index.generalservices}}</a>
@@ -268,44 +268,44 @@ body{font-family: Work Sans;}blockquote{border-color: #feba33;}div[submit-succes
         <div class="title mbr-pb-4 align-center">
             
             <h4 class="mbr-section-subtitle mbr-regular mbr-fonts-style mbr-pt-2 mbr-pb-5 display-2">
-                <div><span style="color: inherit;">Write to us and we will contact you</span><br></div>
+                <div><span style="color: inherit;">{{forms.Wuswillcy}}</span><br></div>
             </h4>
         </div>
         <div class="mbr-row main-row mbr-jc-c">
 
             <div class="card-wrapper mbr-col-md-12 mbr-col-lg-6 mbr-col-sm-12 mbr-column mbr-flex mbr-jc-c">
                 <div class="form-block">
-                    <h4 class="mbr-section-subtitle form-subtitle mbr-semibold align-center mbr-black mbr-fonts-style mbr-pb-2 display-5">Contact Us</h4>
+                    <h4 class="mbr-section-subtitle form-subtitle mbr-semibold align-center mbr-black mbr-fonts-style mbr-pb-2 display-5">{{index.cont}}</h4>
                     <div class="mbr-overlay"></div>
                     <div data-form-type="formoid">
                         <!---Formbuilder Form--->
-                        <form action-xhr="https://formoid.net/api/amp-form/push" method="POST" class="mbr-form" data-form-title="Mobirise Form" id="myFormform265" on="submit:myFormform265.clear;submit-success:AMP.setState({myStateform265:{formdata01form265:{stateformdata01form265: '', valueformdata01form265: ''}, formdata11form265:{stateformdata11form265: '', valueformdata11form265: ''}, formdata21form265:{stateformdata21form265: '', valueformdata21form265: ''}, formdata31form265:{stateformdata31form265: '', valueformdata31form265: ''}}});submit-error:AMP.setState({myStateform265:{formdata01form265:{stateformdata01form265: myStateform265.formdata01form265.valueformdata01form265}, formdata11form265:{stateformdata11form265: myStateform265.formdata11form265.valueformdata11form265}, formdata21form265:{stateformdata21form265: myStateform265.formdata21form265.valueformdata21form265}, formdata31form265:{stateformdata31form265: myStateform265.formdata31form265.valueformdata31form265}}})"><amp-state id="myStateform265"><script type="application/json"> {"formdata01form265":{ "stateformdata01form265": "", "valueformdata01form265": ""},"formdata11form265":{ "stateformdata11form265": "", "valueformdata11form265": ""},"formdata21form265":{ "stateformdata21form265": "", "valueformdata21form265": ""},"formdata31form265":{ "stateformdata31form265": "", "valueformdata31form265": ""}}</script></amp-state><input type="hidden" name="email" data-form-email="true" value="1y/GcindBWG5GQGWxiHetQsZnCZP9K89ZjZjhNllRva2QxKqDPZrR1iuLOF+Sao71utZe6+Gtuzofwrum2WaV1MBNezfer0qfzpDbeHfoVGMJe5YwXouXH6yuRL1jRuG.WcrWBYrz3inAlZU8U9NtD2ulURfsMovBnMq9xUO+gQsYRH47LfXdeYwyr73v38q3EpAWed5dii0WO8NCmLYHVrMwFJH6QPJpX1infdpdyoPJAE2szO9vyrV0H1xZYpwk">
+                        <form action="mkloveaqeel@gmail.com" action-xhr name="Mobirise Form" method="POST" class="mbr-form">
                             <div class="mbr-form-row">
-                                <div submit-success="" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
-                                    <template data-form-alert="" type="amp-mustache">Subscription successful!</template>
+                                <div submit-success class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
+                                    <template data-form-alert type="amp-mustache">{{forms.Thankyou}}</template>
                                 </div>
-                                <div submit-error="" class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
-                                    <template data-form-alert="" type="amp-mustache">Failed! {{error}}</template>
+                                <div submit-error class="mbr-col-lg-12 mbr-col-md-12 mbr-col-sm-12">
+                                    <template data-form-alert type="amp-mustache">{{forms.Thankyou}}</template>
                                 </div>
                             </div>
                             <div class="dragArea mbr-form-row">
                                 <div data-for="form[data][0][1]" class="mbr-col-md-12 field mbr-col-sm-12">
-                                    <input type="hidden" name="form[data][0][0]" value="E-mail Address" id="form[data][0][0]-form2-65" data-form-field="">
-                                    <input [value]="myStateform265.formdata01form265.stateformdata01form265" on="change:AMP.setState({myStateform265:{formdata01form265:{valueformdata01form265: event.value}}})" type="email" name="form[data][0][1]" placeholder="E-mail Address" data-form-field="E-mail" required="required" class="field-input display-7" id="form[data][0][1]-form2-65">
+                                    <input type="hidden" name="form[data][0][0]" value="E-mail Address">
+                                    <input type="email" name="form[data][0][1]" placeholder="{{forms.email}}" data-form-field="E-mail" mbr-theme-style="display-7" required="required" class="field-input">
                                 </div>
                                 <div data-for="form[data][1][1]" class="mbr-col field mbr-col-sm-12">
-                                    <input type="hidden" name="form[data][1][0]" value="Name" id="form[data][1][0]-form2-65" data-form-field="">
-                                    <input [value]="myStateform265.formdata11form265.stateformdata11form265" on="change:AMP.setState({myStateform265:{formdata11form265:{valueformdata11form265: event.value}}})" type="text" name="form[data][1][1]" placeholder="Name" data-form-field="Name" required="required" class="field-input display-7" id="form[data][1][1]-form2-65">
+                                    <input type="hidden" name="form[data][1][0]" value="Name">
+                                    <input type="text" name="form[data][1][1]" placeholder="{{forms.name}}" data-form-field="Name" mbr-theme-style="display-7" required="required" class="field-input">
                                 </div>
                                 <div data-for="form[data][2][1]" class="mbr-col field mbr-col-sm-12">
-                                    <input type="hidden" name="form[data][2][0]" value="Your Phone" id="form[data][2][0]-form2-65" data-form-field="">
-                                    <input [value]="myStateform265.formdata21form265.stateformdata21form265" on="change:AMP.setState({myStateform265:{formdata21form265:{valueformdata21form265: event.value}}})" type="tel" name="form[data][2][1]" placeholder="Your Phone" data-form-field="Phone" class="field-input display-7" id="form[data][2][1]-form2-65">
+                                    <input type="hidden" name="form[data][2][0]" value="Your Phone">
+                                    <input type="tel" name="form[data][2][1]" placeholder="{{forms.Phone}}" data-form-field="Phone" mbr-theme-style="display-7" class="field-input">
                                 </div>
                                 <div data-for="form[data][3][1]" class="mbr-col-md-12 mbr-col-sm-12 field">
-                                    <input type="hidden" name="form[data][3][0]" value="Message" id="form[data][3][0]-form2-65" data-form-field="">
-                                    <textarea on="change:AMP.setState({myStateform265:{formdata31form265:{valueformdata31form265: event.value}}})" [defaulttext]="myStateform265.formdata31form265.stateformdata31form265" name="form[data][3][1]" placeholder="Message" data-form-field="Message" class="field-input display-7" id="form[data][3][1]-form2-65"></textarea>
+                                    <input type="hidden" name="form[data][3][0]" value="Message">
+                                    <textarea name="form[data][3][1]" placeholder="{{forms.Message}}" data-form-field="Message" mbr-theme-style="display-7" class="field-input"></textarea>
                                 </div>
-                                <div data-for="" class="mbr-col-md-12 mbr-section-btn align-center mbr-pt-2 mbr-col-sm-12 field"><button type="submit" class="btn btn-md btn-primary btn-form display-7" href="mailto:contactus@e-servise.com">SEND</button></div>
+                                <div data-for mbr-buttons="true" mbr-theme-style="display-7" data-toolbar="-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd" class="mbr-col-md-12 mbr-section-btn align-center mbr-pt-2 mbr-col-sm-12 field"><a type="submit" class="btn btn-md btn-primary btn-form" data-app-placeholder="Type Text" href="mailto:contactus@e-servise.com">{{forms.send}}</a></div>
                             </div>
                         </form><!---Formbuilder Form--->
                     </div>
@@ -332,26 +332,16 @@ body{font-family: Work Sans;}blockquote{border-color: #feba33;}div[submit-succes
                 <a href="index.html#features5-31" class="text-black text-primary">{{index.why}}</a></p><p class="mbr-text mbr-regular fLink mbr-px-1">
                 <a href="index.html#form3-3m" class="text-black text-primary">{{index.cont}}</a></p><p class="mbr-text mbr-regular fLink mbr-px-1"><a href="#top" class="text-primary">{{index.ScrolltoTop}}</a></p></div>
 
-    <div id="google_translate_element"></div>
         <div class="copyright mbr-px-2 mbr-flex mbr-jc-c">
             <p class="mbr-text mbr-regular mbr-fonts-style align-center display-4">
-                © Copyright 2021 E-service - All Rights Reserved
-            
-            </p>
+                {{Copyright}}</p>
         </div>
     </div>
 </section>
 
 
 
-      <script>
-        function googleTranslateElementInit() {
-                new google.translate.TranslateElement({
-                pageLanguage: 'en'
-            }, 'google_translate_element');
-        }
-    </script>
-    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>;
+  
   
 <amp-state id="chatState"><script type="application/json">{"aplinkToChange": "http://api.whatsapp.com/send?phone=+966544816209&text="}</script></amp-state>
  <div id="chatbutton-wa" style="left: auto; right: 15px; bottom: 15px; font-size: 14px; transition: bottom 0.2s; z-index: 999;"><div role="button" tabindex="0" on="tap:popup.toggleVisibility" class="floating-wpp-button" style="outline: none; display: block; width: 65px; height: 65px; border-radius: 50%; box-shadow: 1px 1px 4px rgba(60, 60, 60, 0.4); transition: box-shadow 0.2s; cursor: pointer; overflow: hidden;"><div class="floating-wpp-button-image"></div></div><div id="popup" hidden="" class="floating-wpp-popup" style="right: 0px; border-radius: 6px; background-color: #e5ddd5; position: absolute; overflow: hidden; padding: 0 12px 12px 12px; box-shadow: 1px 2px 8px rgba(60, 60, 60, 0.25); width: 280px; height: auto; bottom: 82px; opacity: 1; transition: bottom 0.1s ease-out, opacity 0.2s ease-out; transform-origin: bottom;"><div class="floating-wpp-head" style="background-color: #39847a; text-align: left; color: white; margin: 0 -15px 15px -15px; padding: 15px 15px; display: flex; flex-direction: column; justify-content: space-between; cursor: pointer;"><span style="line-height: 1;">{{chat.msg}}</span><strong role="button" tabindex="0" class="close" style="outline: none; position: absolute; top: 14px; right: 8px; color: #ffffff; text-shadow: none; opacity: 1; font-size: inherit;" on="tap:popup.toggleVisibility">✖</strong></div><div class="floating-wpp-message" style="background-color: #ffffff; padding: 8px; border-radius: 7.5px 7.5px 7.5px 7.5px; box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15); opacity: 1; transition: opacity 0.2s; transition-delay: 0.2s; max-width: 100%;">{{chat.msg2}}<br>
