@@ -97,6 +97,56 @@
         "title3": "My Teacher educational site",
         "txt3":"An educational site that helps learners obtain educational courses",
         "web": "Web Application"
+    },
+    "GS" :{
+        "header1": "Do you have an idea ? ",
+        "header2": "Bring your idea to life... Just tell us about it",
+        "header3": "We will use all our experiences and resources to make it live."
+    },
+    "ODApp": {
+        "header1": "Whatever idea that you have in your mind, just bring it to us and we will do it for you and make alive. ",
+        "header2": "Our genius team is capable with most types of applications."
+    },
+    "RMApp": {
+        "header1": "Develop your work process fast with ready Application.",
+        "header2": "We have applications that are ready to run and work on them which satisfy your needs. Also you can modify them.",
+        "header3": "With E-service company your business will be more easier.",
+
+        "cos": "COMING SOON"
+    },
+    "TeamTech": {
+        "header1": "Make your dreams achievable with the right technology that our team use.",
+        "header2": "We are always aware of new technologies that arrive in markets.",
+        "header3": "In addition, we create our own technology.",
+        "subtitle": "Our Team and History",
+        "title": " In E-service Company, We are so proud of great and smart team",
+        "txt": "The story began in 2020, when the company started to hire creative people. We started with 10 employees where every one comes with great thoughts and works hard to grow our company and make it bigger and bigger by studying needs of the markets, the modern technologies and implementing high quality strategies. Now our company has more than 50+ employees and developers. Our team always keeps learning to update their knowledge and sharp their skills. Our team is the sprit and powerful of our company. E-service's team You are Great and  We really so proud of you. "
+    },
+    "CMS": {
+        "Title": "Content Management System (CMS)",
+        "header1": "A system that is designed to manage the content of your website or other electronic resource",
+        "header2": "that is used collaboratively by a number of people.",
+        "StaticSystem": "Static System",
+        "DynamicSystem": "Dynamic System",
+        "StaSysTxt": "Fast and strong enough to fit your needs as the time you applied",
+        "DynSysTxt": "Adaptive with your needs strong and easy to add your new features",
+
+        "outBoxTitle": "Start using our CMS Today",
+        "outBoxSubTitle": "Explore the pricing and features of each type",
+
+        "StaticPackage": "Static Package",
+        "StPaShowTxt": "Work in most popular operating system (Android, iOS and Windows)",
+        "StItem1": "Small business",
+        "StItem2": "Fast to build and publish",
+        "StItem3": "Fast in updating",
+        "StItem4": "Data Processing",
+
+        "DynamicPackage": "Dynamic Package",
+        "DyPaShowTxt": "Work in different kind of operating system (Android, iOS, Windows and Linux).",
+        "DyItem1": "Large business",
+        "DyItem2": "Support Complicate needs",
+        "DyItem3": "Fast in response time",
+        "DyItem4": "Fast to build and publish"
     }
 }
     

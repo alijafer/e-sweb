@@ -1,7 +1,7 @@
 {
     "lng":"ar",
     "Align": "Right",
-    "Copyright": "© Copyright 2021 E-service - All Rights Reserved",
+    "Copyright": "©جميع حقوق النشر محفوظة لشركة إي-خدمات",
     "index":{
         "home": "الرئسية",
         "services": "خدمات",
@@ -55,21 +55,21 @@
         "txt3": "Our timetable highly distributed to employee's."
     },
     "oprocess": {
-        "titleTop": "It is so easy to build your web with us.",
-        "title1": "Free Query",
-        "title2": "Processing",
-        "title3": "Feedback",
-        "title4": "Completed ",
+        "titleTop": "من السهل جدًا بناء الويب الخاص بك معنا.",
+        "title1": "استعلام مجاني",
+        "title2": "معالجة",
+        "title3": "التغذية الراجعة",
+        "title4": "مكتمل ",
         "txt1": "Once we receive your query, from our site /WhatsApp 0544816209",
         "txt2": "We will analyze it and give you the best work and design.",
         "txt3": "We will send you all needed information with proposal budget ",
         "txt4": "We finish your project after the deal ."
     },
     "features": {
-        "Numberofclients": "Number of clients",
-        "Numberofservices": "Number of services",
-        "CompletedServices": "Completed Services",
-        "Responsetime": "Response time",
+        "Numberofclients": "عدد العملاء",
+        "Numberofservices": "عدد الخدمات",
+        "CompletedServices": "الخدمات المكتملة",
+        "Responsetime": "وقت الاستجابة",
         "Numberofclientsn": "59+",
         "Numberofservicesn": "99+",
         "CompletedServicesn": "49+",
@@ -83,19 +83,69 @@
     },
     "status": {
         "0":"مدير",
-        "1":"Lead of IT",
+        "1":"قيادة تكنولوجيا المعلومات",
         "2":"SE, WEB-Mobile Developer",
         "3":"Data science, WEB Developer"
     },
     "portfolio": {
-        "subTitle": "Explore some of our projects",
-        "title1": "Family tree",
-        "txt1":"Responsive Website that show all Family Members",
+        "subTitle": "استكشف بعض مشاريعنا",
+        "title1": "شجرة العائلة",
+        "txt1":"موقع مستجيب يعرض جميع أفراد العائلة",
         "title2": "Rafed educational site",
         "txt2":"Web site that helps learners obtain educational courses",
         "title3": "My Teacher educational site",
         "txt3":"An educational site that helps learners obtain educational courses",
-        "web": "Web Application"
+        "web": "تطبيق الويب"
+    },
+    "GS" :{
+        "header1": "Do you have an idea ? ",
+        "header2": "Bring your idea to life... Just tell us about it",
+        "header3": "We will use all our experiences and resources to make it live."
+    },
+    "ODApp": {
+        "header1": "Whatever idea that you have in your mind, just bring it to us and we will do it for you and make alive. ",
+        "header2": "Our genius team is capable with most types of applications."
+    },
+    "RMApp": {
+        "header1": "Develop your work process fast with ready Application.",
+        "header2": "We have applications that are ready to run and work on them which satisfy your needs. Also you can modify them.",
+        "header3": "With E-service company your business will be more easier.",
+
+        "cos": "ترقبونا قريباَ"
+    },
+    "TeamTech": {
+        "header1": "Make your dreams achievable with the right technology that our team use.",
+        "header2": "We are always aware of new technologies that arrive in markets.",
+        "header3": "In addition, we create our own technology.",
+        "subtitle": "Our Team and History",
+        "title": " In E-service Company, We are so proud of great and smart team",
+        "txt": "The story began in 2020, when the company started to hire creative people. We started with 10 employees where every one comes with great thoughts and works hard to grow our company and make it bigger and bigger by studying needs of the markets, the modern technologies and implementing high quality strategies. Now our company has more than 50+ employees and developers. Our team always keeps learning to update their knowledge and sharp their skills. Our team is the sprit and powerful of our company. E-service's team You are Great and  We really so proud of you. "
+    },
+    "CMS": {
+        "Title": "نظام إدارة المحتوى (CMS)",
+        "header1": "نظام مصمم لإدارة محتوى موقع الويب الخاص بك أو أي مصدر إلكتروني آخر",
+        "header2": "يتم استخدامه بشكل تعاوني من قبل عدد من الأشخاص.",
+        "StaticSystem": "نظام ثابت",
+        "DynamicSystem": "نظام ديناميكي",
+        "StaSysTxt": "سريع وقوي بما يكفي ليلائم احتياجاتك حسب وقت تقديمك",
+        "DynSysTxt": "تتكيف مع احتياجاتك قوية وسهلة لإضافة ميزاتك الجديدة",
+
+        "outBoxTitle": "ابدأ في استخدام نظام إدارة المحتوى لدينا اليوم ",
+        "outBoxSubTitle": "استكشف الأسعار والميزات الخاصة بكل نوع ",
+
+        "StaticPackage": "حزمة ثابتة",
+        "StPaShowTxt": "العمل في أكثر أنظمة التشغيل شيوعًا (Android و iOS و Windows)",
+        "StItem1": "أعمال صغيرة",
+        "StItem2": "سريع البناء والنشر ",
+        "StItem3": "سريع في التحديث ",
+        "StItem4": "معالجة البيانات ",
+
+        "DynamicPackage": "الحزمة الديناميكية",
+        "DyPaShowTxt": "العمل في أنواع مختلفة من أنظمة التشغيل (Android و iOS و Windows و Linux).",
+        "DyItem1": "شركة كبيرة ",
+        "DyItem2": "دعم الاحتياجات المعقدة ",
+        "DyItem3": "وقت استجابة سريع ",
+        "DyItem4": "سريع البناء والنشر"
     }
     
 }
