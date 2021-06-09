@@ -101,11 +101,53 @@
     "GS" :{
         "header1": "Do you have an idea ? ",
         "header2": "Bring your idea to life... Just tell us about it",
-        "header3": "We will use all our experiences and resources to make it live."
+        "header3": "We will use all our experiences and resources to make it live.",
+
+        "maintenance": "Maintenance",
+        "ITDevelopment": "IT Development",
+        "consultation": "Consultation",
+        "Mwebs": "Make web secure",
+        "RS": "Remote Support",
+        "THost": "Transferring Hosting",
+        "InstalDeveapp": "Installing Developer apps",
+        "InstalDesignapp": "Installing Designer apps",
+        "Instalgenrlapp": "Installing general apps",
+        "InstalBusnsapp": "Installing Business apps",
+
+        "itemTxt1": "Fix you problems with Experts in solving computer issues",
+        "itemTxt2": "Develop your ideas with excellent developers to make your dream reality",
+        "itemTxt3": "Bring your idea to the life with good expertise in modern technologies",
+        "itemTxt4": "Keep your own information and web secured with your own package for any service you pick",
+        "itemTxt5": "Fix you problems with Experts in solving computer issues",
+        "itemTxt6": "Do you want to change your host provider? you are not satisfied with it. Don't worry, we can help you with that ",
+        "itemTxt7": "Android studio, Netbeans, Visual Studio, DevC++, StarUML, Bracket, Note++ and Unity ",
+        "itemTxt8": "Adobe Apps ( Xd, Photoshops...) Mockup Frames, Figma, FluidUI .",
+        "itemTxt9": "Browser Google Chrome, Edge, WhatsApp, Telegram ,Twitter Instagram, Netflix ",
+        "itemTxt10": "Zoom, Google Meet, GoToMeeting, TeamViewer, Slack"
     },
     "ODApp": {
         "header1": "Whatever idea that you have in your mind, just bring it to us and we will do it for you and make alive. ",
-        "header2": "Our genius team is capable with most types of applications."
+        "header2": "Our genius team is capable with most types of applications.",
+        "mobile": "Mobile Application ",
+        "desktop": "Desktop Application",
+        "RPiS": "Raspberry Pi System",
+        "SEO": "SEO",
+        "CWrit ": "Content Writing",
+        "IMOf ": "Installing Microsoft Offices",
+        "PMobApp": "Publishing Mobile App",
+        "designing ": "Designing ",
+        "THost ": "Transferring Hosting",
+
+        "itemTxt1": "Building a responsive website that work in a different Kind of devices.",
+        "itemTxt2": "Building a mobile from the scratch with publishing it into the market.",
+        "itemTxt3": "Building an application that work for a desktop app that can be connected to a website or mobile app.",
+        "itemTxt4": "Building a system that can preform a certain action like turn lite off when the sunrises start.",
+        "itemTxt5": "Our aim is to improve the quality and quantity of website traffic",
+        "itemTxt6": "Writing Content for Web, Desktop, and mobile",
+        "itemTxt7": "We will Take care of all these waiting hours of searching and installing the right app",
+        "itemTxt8": "We will take care of publishing your apps in the Apple Store & Google Play.",
+        "itemTxt9": "Designing Websites & Mobile App (Ui & Ux)",
+        "itemTxt10": "Change Transferring Hosting to Domain & Hosting Management - We can transfer, fix, consult, configure your domain and hosting."
     },
     "RMApp": {
         "header1": "Develop your work process fast with ready Application.",
