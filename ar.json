@@ -1,16 +1,16 @@
 {
     "lng":"ar",
     "Align": "Right",
-    "Copyright": "©جميع حقوق النشر محفوظة لشركة إي-خدمات",
+    "Copyright": "©جميع حقوق النشر محفوظة لشركة  e-service للخدمات الالكترونية",
     "index":{
         "home": "الرئسية",
-        "services": "خدمات",
-        "generalservices": "خدمات عامة",
-        "ondapp": "تطبيق عند الطلب ",
+        "services": "الخدمات",
+        "generalservices": "الخدمات عامة",
+        "ondapp": "تطبيقات عند الطلب ",
         "why": "لماذا نحن",
         "temt": "تقنيات الفريق",
         "cont": "تحدث معنا",
-        "E-service": "إي-خدمات",
+        "E-service": "e-service للخدمات الالكترونية",
         "rmapp": "تطبيقات جاهزة",
         "cms": "نظام إدارة المحتوى",
         "E-serviceTeam": "فريق إي-سيرفيس",
@@ -18,12 +18,12 @@
         "StartNow": "إبدأ الان",
         "OurProcess": "عمليتنا",
         "OurTeam": "فريقنا",
-        "Portfolio" : "Portfolio"
+        "Portfolio" : "عن الفريق"
     },
     "chat":{
         "msg": "👋 تحدث معنا على الوتساب",
         "msg2":"أهلاً👋",
-        "msg3": "اكتب رسالة هنا. سوف يذهب مباشرة إلى هاتفك! ",
+        "msg3": "اكتب رسالة هنا. سوف يفتح مباشرة في هاتفك! ",
         "msg4": "أكتب هنا"
     },
     "forms":{
@@ -41,7 +41,7 @@
         "txt1": "جميع الخدمات المطلوبة في مكان واحد"
     },
     "header":{
-        "ftitel": "E-services website",
+        "ftitel": "E-services موقع",
         "fsubtitel": "جميع خدمات تكنولوجيا المعلومات الخاصة بك في مكان واحد",
         "ssubtitel": "لديك مشروع ، نحن نبنيه لك ",
         "tsubtitel": "لديك خدمة جديدة ، نحن نساعدك على القيام بها "
@@ -52,7 +52,7 @@
         "titel3": "وقت قصير",
         "txt1": "سعرنا أقل من متوسط السعر.",
         "txt2": "فرق المطورين لدينا مؤهلة بشكل جيد لبناء أنواع مختلفة من المشاريع.",
-        "txt3": "Our timetable highly distributed to employee's."
+        "txt3": "جدولنا الزمني منظم بشكل عالي على جميع الموظفين."
     },
     "oprocess": {
         "titleTop": "من السهل جدًا بناء الويب الخاص بك معنا.",
@@ -60,10 +60,10 @@
         "title2": "معالجة",
         "title3": "التغذية الراجعة",
         "title4": "مكتمل ",
-        "txt1": "Once we receive your query, from our site /WhatsApp 0544816209",
-        "txt2": "We will analyze it and give you the best work and design.",
-        "txt3": "We will send you all needed information with proposal budget ",
-        "txt4": "We finish your project after the deal ."
+        "txt1": "بمجرد استلامنا لاستفسارك ، من موقعنا / WhatsApp 0544816209",
+        "txt2": "سنقوم بتحليلها ونقدم لك أفضل عمل وتصميم.",
+        "txt3": "سوف نرسل لك جميع المعلومات المطلوبة مع ميزانية المقدرة",
+        "txt4": " ونقوم بالانتهاء من مشروعك بعد الصفقة."
     },
     "features": {
         "Numberofclients": "عدد العملاء",
@@ -73,7 +73,7 @@
         "Numberofclientsn": "59+",
         "Numberofservicesn": "99+",
         "CompletedServicesn": "49+",
-        "Responsetimen": "9 m"
+        "Responsetimen": "9 دقيقة"
     },
     "team": {
         "0":"عقيل العباد",
@@ -82,85 +82,85 @@
         "3":"علي العامر"
     },
     "status": {
-        "0":"مدير",
-        "1":"قيادة تكنولوجيا المعلومات",
-        "2":"SE, WEB-Mobile Developer",
-        "3":"Data science, WEB Developer"
+        "0":"مدير الشركة",
+        "1":"مدير تكنولوجيا المعلومات",
+        "2":"م.برمجيات مطور تطبيقات جوال ويب",
+        "3":"م.علم البيانات مطور ويب"
     },
     "portfolio": {
         "subTitle": "استكشف بعض مشاريعنا",
         "title1": "شجرة العائلة",
-        "txt1":"موقع مستجيب يعرض جميع أفراد العائلة",
-        "title2": "Rafed educational site",
-        "txt2":"Web site that helps learners obtain educational courses",
-        "title3": "My Teacher educational site",
-        "txt3":"An educational site that helps learners obtain educational courses",
+        "txt1":"موقع تفاعلي يعرض جميع أفراد العائلة",
+        "title2": "موقع رهف التعليمي ",
+        "txt2":"موقع ويب يساعد المتعلمين في الحصول على دورات تعليمية",
+        "title3": "موقع معلمي التعليمي",
+        "txt3":"موقع تعليمي يساعد المتعلمين في الحصول على دورات تعليمية",
         "web": "تطبيق الويب"
     },
     "GS" :{
-        "header1": "Do you have an idea ? ",
-        "header2": "Bring your idea to life... Just tell us about it",
-        "header3": "We will use all our experiences and resources to make it live.",
-        "maintenance": "Maintenance",
-        "ITDevelopment": "IT Development",
-        "consultation": "Consultation",
-        "Mwebs": "Make web secure",
-        "RS": "Remote Support",
-        "THost": "Transferring Hosting",
-        "InstalDeveapp": "Installing Developer apps",
-        "InstalDesignapp": "Installing Designer apps",
-        "Instalgenrlapp": "Installing general apps",
-        "InstalBusnsapp": "Installing Business apps",
+        "header1": "هل لديك فكرة ؟",
+        "header2": "اجعل فكرتك تنبض بالحياة ... فقط أخبرنا عنها",
+        "header3": "سوف نستخدم جميع خبراتنا ومواردنا لجعلها حية.",
+        "maintenance": "أعمال الصيانة",
+        "ITDevelopment": "تطوير تكنولوجيا المعلومات",
+        "consultation": "الاستشارة التقنية",
+        "Mwebs": "اجعل موقع الويب آمنًا",
+        "RS": "المساعدة عن بعد",
+        "THost": "نقل الاستضافة الموقع",
+        "InstalDeveapp": "تثبيت تطبيقات المطورين",
+        "InstalDesignapp": "تثبيت تطبيقات المصممين",
+        "Instalgenrlapp": "تثبيت التطبيقات العامة",
+        "InstalBusnsapp": "تثبيت تطبيقات الأعمال",
 
-        "itemTxt1": "Fix you problems with Experts in solving computer issues",
-        "itemTxt2": "Develop your ideas with excellent developers to make your dream reality",
-        "itemTxt3": "Bring your idea to the life with good expertise in modern technologies",
-        "itemTxt4": "Keep your own information and web secured with your own package for any service you pick",
-        "itemTxt5": "Fix you problems with Experts in solving computer issues",
-        "itemTxt6": "Do you want to change your host provider? you are not satisfied with it. Don't worry, we can help you with that ",
-        "itemTxt7": "Android studio, Netbeans, Visual Studio, DevC++, StarUML, Bracket, Note++ and Unity ",
-        "itemTxt8": "Adobe Apps ( Xd, Photoshops...) Mockup Frames, Figma, FluidUI .",
-        "itemTxt9": "Browser Google Chrome, Edge, WhatsApp, Telegram ,Twitter Instagram, Netflix ",
-        "itemTxt10": "Zoom, Google Meet, GoToMeeting, TeamViewer, Slack"
+        "itemTxt1": "أصلح مشكلاتك مع الخبراء في حل مشكلات الكمبيوتر",
+        "itemTxt2": "طور أفكارك مع مطورين ممتازين لجعل حلمك حقيقة",
+        "itemTxt3": "اجعل فكرتك تنبض بالحياة مع خبراء في التقنيات الحديثة",
+        "itemTxt4": "حافظ على أمان معلوماتك وشبكة الإنترنت الخاصة بك باستخدام الحزمة الخاصة بك لأي خدمة تختارها",
+        "itemTxt5": "أصلح مشكلاتك مع الخبراء في حل مشكلات الكمبيوتر",
+        "itemTxt6": "هل تريد تغيير مزود المضيف الخاص بك؟ أنت غير راضٍ عنه. لا تقلق ، يمكننا مساعدتك في ذلك",
+        "itemTxt7": "أندرويد استوديو,نت بينز,مايكروسوفت فيجوال ستوديو,ديف سي++,StarUML,براكيتس,نوتباد++,يونيتي",
+        "itemTxt8": "تطبيقات ادوبي (ْxd,أدوبي فوتوشوب,موك اب فريم,Figma,FluidUI)",
+        "itemTxt9": "متصفح جوجل كروم, مايكروسوفت إيدج, واتساب, تيليجرام ,تويتر إنستغرام, نتفليكس ",
+        "itemTxt10": "زووم, جوجل مييت, GoToMeeting, تيم فيوار, سلاك"
     },
     "ODApp": {
-        "header1": "Whatever idea that you have in your mind, just bring it to us and we will do it for you and make alive. ",
-        "header2": "Our genius team is capable with most types of applications.",
-        "mobile": "Mobile Application ",
-        "desktop": "Desktop Application",
-        "RPiS": "Raspberry Pi System",
-        "SEO": "SEO",
-        "CWrit ": "Content Writing",
-        "IMOf ": "Installing Microsoft Offices",
-        "PMobApp": "Publishing Mobile App",
-        "designing ": "Designing ",
-        "THost ": "Transferring Hosting",
+        "header1": "مهما كانت الفكرة التي لديك في ذهنك ، فقط أحضرها إلينا وسنفعلها من أجلك ونجعلها حية.",
+        "header2": "فريقنا العبقري قادر على معظم أنواع التطبيقات.",
+        "mobile": "تطبيقات الجوال",
+        "desktop": "تطبيقات سطح المكتب",
+        "RPiS": "نظام Raspberry Pi",
+        "SEO": "تحسين محركات البحث",
+        "CWrit ": "كتابة المحتوى",
+        "IMOf ": "تثبيت تطبيقات مايكروسوفت اوفيس",
+        "PMobApp": "نشر تطبيق الجوال بالمتجر",
+        "designing ": "تصميم ",
+        "THost ": "نقل الاستضافة",
 
-        "itemTxt1": "Building a responsive website that work in a different Kind of devices.",
-        "itemTxt2": "Building a mobile from the scratch with publishing it into the market.",
-        "itemTxt3": "Building an application that work for a desktop app that can be connected to a website or mobile app.",
-        "itemTxt4": "Building a system that can preform a certain action like turn lite off when the sunrises start.",
-        "itemTxt5": "Our aim is to improve the quality and quantity of website traffic",
-        "itemTxt6": "Writing Content for Web, Desktop, and mobile",
-        "itemTxt7": "We will Take care of all these waiting hours of searching and installing the right app",
-        "itemTxt8": "We will take care of publishing your apps in the Apple Store & Google Play.",
-        "itemTxt9": "Designing Websites & Mobile App (Ui & Ux)",
-        "itemTxt10": "Change Transferring Hosting to Domain & Hosting Management - We can transfer, fix, consult, configure your domain and hosting."
+        "itemTxt1": "بناء موقع ويب سريع الاستجابة يعمل على أنواع مختلفة من الأجهزة.",
+        "itemTxt2": "بناء تطبيقات الجوال من الصفر مع نشره في السوق.",
+        "itemTxt3": "إنشاء تطبيق يعمل مع تطبيق سطح مكتب يمكن توصيله بموقع ويب أو تطبيق جوال.",
+        "itemTxt4": "بناء نظام يمكنه تنفيذ إجراء معين مثل إطفاء الضوء عند شروق الشمس.",
+        "itemTxt5": "هدفنا هو تحسين جودة وكمية حركة مرور البيانات بالموقع",
+        "itemTxt6": "كتابة المحتوى للويب وسطح المكتب والجوال",
+        "itemTxt7": "سنهتم بكل ساعات الانتظار هذه من البحث عن التطبيق المناسب وتثبيته",
+        "itemTxt8": "سنهتم بنشر تطبيقاتك في متجر Apple Store و Google Play.",
+        "itemTxt9": "تصميم مواقع الويب وتطبيقات الجوال (Ui & Ux)",
+        "itemTxt10": "تغيير نقل الاستضافة إلى النطاق وإدارة الاستضافة - يمكننا نقل وإصلاح واستشارة وتهيئة المجال الخاص بك والاستضافة."
     },
     "RMApp": {
-        "header1": "Develop your work process fast with ready Application.",
-        "header2": "We have applications that are ready to run and work on them which satisfy your needs. Also you can modify them.",
-        "header3": "With E-service company your business will be more easier.",
+        "header1": "طور عملية عملك بسرعة من خلال التطبيق الجاهز.",
+        "header2": "لدينا تطبيقات جاهزة للتشغيل والعمل على تلبية احتياجاتك. أيضا ، يمكنك تعديلها.",
+        "header3": "مع شركة خدمات إلكترونية ، سيكون عملك أسهل.",
 
         "cos": "ترقبونا قريباَ"
     },
     "TeamTech": {
-        "header1": "Make your dreams achievable with the right technology that our team use.",
-        "header2": "We are always aware of new technologies that arrive in markets.",
-        "header3": "In addition, we create our own technology.",
-        "subtitle": "Our Team and History",
-        "title": " In E-service Company, We are so proud of great and smart team",
-        "txt": "The story began in 2020, when the company started to hire creative people. We started with 10 employees where every one comes with great thoughts and works hard to grow our company and make it bigger and bigger by studying needs of the markets, the modern technologies and implementing high quality strategies. Now our company has more than 50+ employees and developers. Our team always keeps learning to update their knowledge and sharp their skills. Our team is the sprit and powerful of our company. E-service's team You are Great and  We really so proud of you. "
+        "header1": "اجعل أحلامك قابلة للتحقيق باستخدام التكنولوجيا المناسبة التي يستخدمها فريقنا.",
+        "header2": "نحن على دراية دائمًا بالتقنيات الجديدة التي تصل إلى الأسواق.",
+        "header3": "بالإضافة إلى ذلك ، نصنع التكنولوجيا الخاصة بنا.",
+        "subtitle": "فريقنا وتاريخنا",
+        "title": "في شركة خدمات إلكترونية ، نحن فخورون جدًا بفريق عمل رائع وذكي",
+        "txt": "بدأت القصة في عام 2020 عندما بدأت الشركة في توظيف المبدعين. بدأنا بعشرة موظفين حيث يأتي الجميع بأفكار رائعة ويعملون بجد لتنمية شركتنا وجعلها أكبر وأكبر من خلال دراسة احتياجات الأسواق والتقنيات الحديثة وتنفيذ استراتيجيات عالية الجودة. تضم شركتنا الآن أكثر من 50 موظفًا ومطورًا. يواصل فريقنا دائمًا تعلم تحديث معارفهم وصقل مهاراتهم. فريقنا هو روح وقوة شركتنا. فريق الخدمة الإلكترونية أنت رائع ونحن فخورون جدًا بك حقًا."
     },
     "CMS": {
         "Title": "نظام إدارة المحتوى (CMS)",
