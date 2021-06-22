@@ -1,5 +1,6 @@
 {
     "lng":"en",
+    "lnga": "ar",
     "Align": "Left",
     "Copyright": "© Copyright 2021 E-service - All Rights Reserved",
     "index":{
@@ -133,10 +134,10 @@
         "desktop": "Desktop Application",
         "RPiS": "Raspberry Pi System",
         "SEO": "SEO",
-        "CWrit ": "Content Writing",
-        "IMOf ": "Installing Microsoft Offices",
+        "CWrit": "Content Writing",
+        "IMOf": "Installing Microsoft Offices",
         "PMobApp": "Publishing Mobile App",
-        "designing ": "Designing ",
+        "designing": "Designing ",
         "THost ": "Transferring Hosting",
 
         "itemTxt1": "Building a responsive website that work in a different Kind of devices.",
@@ -149,6 +150,11 @@
         "itemTxt8": "We will take care of publishing your apps in the Apple Store & Google Play.",
         "itemTxt9": "Designing Websites & Mobile App (Ui & Ux)",
         "itemTxt10": "Change Transferring Hosting to Domain & Hosting Management - We can transfer, fix, consult, configure your domain and hosting."
+    },
+    "test":{
+        "IMOf": "Installing Microsoft Offices",
+        "CWrit": "Content Writing",
+        "desi": "Designing"
     },
     "RMApp": {
         "header1": "Develop your work process fast with ready Application.",
