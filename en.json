@@ -18,7 +18,8 @@
         "StartNow": "Start Now",
         "OurProcess": "Our Process",
         "OurTeam": "Our Team",
-        "Portfolio" : "Portfolio"
+        "Portfolio" : "Portfolio",
+        "Lang": "عربي"
     },
     "chat":{
         "msg": "👋 Chat with us on WhatsApp!",
