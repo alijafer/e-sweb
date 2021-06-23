@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mustache ar.json public/index.html > ar/index.html | mustache ar.json public/page4.html > ar/page4.html | mustache ar.json public/page1.html > ar/page1.html | mustache ar.json public/page3.html > ar/page3.html |mustache ar.json public/page5.html > ar/page5.html | mustache ar.json public/page6.html > ar/page6.html"
+    "test": " mustache ar.json public/page3.html > ar/page3.html"
   },
   "author": "",
   "license": "ISC",
