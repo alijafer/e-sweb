@@ -1,10 +1,10 @@
 {
     "lng":"ar",
-    "lnga": "",
+    "lnga": "en",
     "Align": "Right",
     "Copyright": "©جميع حقوق النشر محفوظة لشركة  e-service للخدمات الالكترونية",
     "index":{
-        "home": "الرئسية",
+        "home": "الرئيسية",
         "services": "خدماتنا",
         "generalservices": "الخدمات عامة",
         "ondapp": "تطبيقات عند الطلب ",
